@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/evanshortiss/angular-browserify.git"
+    "url": "git://github.com/evanshortiss/angularify.git"
   },
   "keywords": [
     "ng",
@@ -19,11 +19,10 @@
   "author": "Evan Shortiss",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evanshortiss/angular-browserify/issues"
+    "url": "https://github.com/evanshortiss/angularify/issues"
   },
-  "homepage": "https://github.com/evanshortiss/angular-browserify",
+  "homepage": "https://github.com/evanshortiss/angularify",
   "devDependencies": {
-    "grunt-loader": "~0.2.1",
     "grunt-lintspaces": "^0.5.1",
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-column-lint": "~0.2.0",
