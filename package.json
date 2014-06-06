@@ -1,6 +1,6 @@
 {
   "name": "angularify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Load angular dependencies in a browserify friendly manner with simple version selection.",
   "main": "./index.js",
   "scripts": {
