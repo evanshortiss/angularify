@@ -66,5 +66,5 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-column-lint');
   grunt.loadNpmTasks('grunt-contrib-jshint');
 
-  grunt.registerTask('format', ['lintspaces', 'jshint', 'column_lint']);
+  grunt.registerTask('default', ['lintspaces', 'jshint', 'column_lint']);
 };
